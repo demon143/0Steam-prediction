@@ -1,1 +1,1 @@
-# 0Steam-prediction
+根据天池的数据集，进行一定的特征工程后，使用线性回归、knn、随机森林、lightgbm等算法实现预测
